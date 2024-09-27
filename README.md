@@ -2,6 +2,7 @@ This is my first API building experience and overall first "Framework / library"
 Overall it took me 25+ hours to finish this CRUD project.
 
 Little background: Before starting (23.09.24) I had no idea what is CRUD, REST API and how to use frameworks overall. 
+
 I always thought that I need some prerequesits to start using and learning frameworks. 
 But actually this was wrong thinking, because at start I didn't knew what is OOP, asynchronous programming and other basic staff.
 Btw, I was in "Tutorial Hell" for more than 1 Year.
