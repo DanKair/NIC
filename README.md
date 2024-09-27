@@ -1,6 +1,8 @@
-This is my first API building experience and overall first "Framework / library" using experience. Overall it took me 25+ hours to finish this CRUD project.
+This is my first API building experience and overall first "Framework / library" using experience.
+Overall it took me 25+ hours to finish this CRUD project.
 
-Little background: Before starting (23.09.24) I had no idea what is CRUD, REST API and how to use frameworks overall. I always thought that I need some prerequesits to start using and learning projects.
+Little background: Before starting (23.09.24) I had no idea what is CRUD, REST API and how to use frameworks overall. 
+I always thought that I need some prerequesits to start using and learning projects. 
 But actually this was wrong thinking, because at start I didn't knew what is OOP, asynchronous programming and other basic staff. Btw, I was in "Tutorial Hell" for more than 1 Year.
 It took me 5 hours to finally start understanding FastAPI and in that moment I finally built POST, DELETE operations.
 
